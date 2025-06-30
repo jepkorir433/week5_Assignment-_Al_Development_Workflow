@@ -52,4 +52,4 @@ A machine learning model is built using structured data and deployed via a Flask
 ### ✅ Part 4: Reflection & Workflow Diagram
 - Reflected on challenges and improvements
 - Illustrated the AI development workflow using a clear flowchart
-![alt text](drawing-1.png)
+![alt text](drawing.png)
